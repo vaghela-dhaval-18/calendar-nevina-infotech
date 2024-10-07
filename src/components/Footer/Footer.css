@@ -1,0 +1,53 @@
+.footer {
+  color: black;
+  padding: 30px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  flex-wrap: wrap; 
+  gap: 20px; 
+  list-style-type: none; 
+  padding: 0;
+  margin: 0; 
+  list-style-type: none;
+  text-decoration: none;
+}
+    
+
+.footer-links li a{
+    text-decoration: none;
+    color:#c0c0bf
+}
+.footer-links li{
+    text-decoration: none;
+    color:#c0c0bf
+}
+
+.footer-section {
+  margin-right: 20px;
+}
+
+
+.footer-section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-section li {
+  display: inline; /* Set list items to inline for horizontal layout */
+}
+
+.footer-section a {
+    color: black;
+  text-decoration: none;
+}
+
+.fab {
+  margin-right: 5px;
+}

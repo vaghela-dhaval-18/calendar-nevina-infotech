@@ -1,0 +1,16 @@
+.calendar-main{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 5px 0 15px rgba(0, 0, 0, 0.03)
+    
+}
+.header-controls{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.underline{
+    width: 100%;
+    border-bottom: 1px solid black;
+}
